@@ -1,4 +1,4 @@
-name: Loyo API Connector
+﻿name: Loyo API Connector
 on:
   schedule:
     - cron: '*/15 * * * *'
